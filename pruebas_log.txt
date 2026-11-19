@@ -1,0 +1,30 @@
+PASS  CP-01 ciudad duplicada se rechaza
+PASS  CP-02 eliminar pasajero inexistente
+PASS  CP-03 atender cola vacia
+PASS  CP-04 distancia negativa
+PASS  CP-05 eliminar ciudad conectada (vecina sigue viva)
+PASS  CP-05 sin referencias colgantes a la ciudad borrada
+PASS  CP-05b vecinos ya no incluyen la ciudad
+PASS  CP-06 letras donde se pide numero
+PASS  Pasajero con ID duplicado
+PASS  ABB inorden ordenado
+PASS  ABB preorden refleja la insercion
+PASS  ABB buscar ID inexistente
+PASS  ABB eliminar nodo con dos hijos
+PASS  BFS por niveles
+PASS  BFS con ciudad inexistente
+PASS  DFS visita todas
+PASS  Dijkstra camino minimo
+PASS  Dijkstra costo total
+PASS  Dijkstra sin camino (ciudad aislada)
+PASS  Componentes conexas
+PASS  Cola respeta el orden FIFO
+PASS  Cargar archivo inexistente
+PASS  Guardar datos
+PASS  Cargar restaura ciudades y conexiones
+PASS  Cargar restaura el indice ABB
+PASS  Archivo corrupto se rechaza
+PASS  Archivo con distancia negativa se rechaza
+PASS  Archivo corrupto no altera la memoria
+
+Resultado: 28 aprobadas, 0 fallidas (total 28)
